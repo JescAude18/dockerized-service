@@ -7,3 +7,9 @@ terraform/*.tfvars
 terraform/*.auto.tfvars
 terraform/*.tfplan
 terraform/plan.out
+
+# .env
+.env
+
+# node_modules
+node_modules
