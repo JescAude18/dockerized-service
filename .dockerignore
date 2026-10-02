@@ -1,0 +1,7 @@
+.env
+.git
+node_modules
+ansible
+terraform
+*.md
+*.txt
